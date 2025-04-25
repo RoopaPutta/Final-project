@@ -1,0 +1,35 @@
+# 🌍 Global CO2 Emissions Tracker by Sector
+
+This project visualizes and analyzes global CO₂ emissions across countries and sectors. It includes a Tableau dashboard and a policy brief to identify top polluters and support climate policy decisions.
+
+## 📊 Dashboard Features
+
+- Interactive world map showing CO₂ emissions per capita 
+- Filters by year, country
+- Highlights of top 10 emitters (total and per capita)
+
+## 🛠️ Data Preparation
+
+Using Python (Pandas):
+
+- Imported multi-year emissions data
+- Calculated:Emissions_per_Capita 
+- Cleaned and exported as `cleaned_emissions_per_capita.csv`
+
+## 📄 Deliverables
+
+- `emissions_dashboard.pbix`: Bi dashboard file
+
+
+## 🧰 Tools Used
+
+- Python (Pandas)
+- power  bi
+- Excel (for formatting brief)
+
+## 📌 Objective
+
+Help policymakers and researchers:
+- Track emissions trends
+- Compare countries by economic and demographic efficiency
+- Identify sectoral priorities for emissions reduction
